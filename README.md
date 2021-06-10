@@ -17,7 +17,7 @@ Bem vindo ao meu GitHub! Eu me chamo Josélio Samy e sou estudante de ciência d
 
 #### :computer: Linguagens e ferramentas de programação: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=joseliosamy&show_icons=true&hide_border=true" />
 
 
 <code><img width="5%" src="https://image.flaticon.com/icons/png/512/136/136528.png"></code>
