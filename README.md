@@ -4,15 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/_joseliot/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joseliosamy3@gmail.com)
 
-Bem vindo ao meu GitHub! Eu me chamo Josélio Samy e sou estudante de programação bolsista na Rockeseat pelo Ifood!
+Bem vindo ao meu GitHub! Eu me chamo Josélio Samy e sou estudante de programação.
 
 <img align="right" alt="img" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="50%" height="auto" />
 
 
 #### 🌱 Coisas em que tenho me empenhado atualmente: 
-- Migrar de web para mobile
+- Me especializar em front-end
 - Aprender inglês
-- Continuar com o curso patrocinado pelo Ifood na <strong><a href="https://app.rocketseat.com.br/">Rocketseat<a></strong>
 - Evoluir como indivíduo
 
 #### :computer: Linguagens e ferramentas de programação: 
